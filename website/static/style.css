@@ -1,0 +1,16 @@
+.bg-focus{
+    background-color:crimson;
+    color:whitesmoke;
+}
+.nav-link:hover{
+    color:rgb(31, 24, 6);
+    /* background-color:black; */
+    transition: 0.5s;
+}
+.link{
+    width: auto;
+}
+a.nav-link{
+    color:#fff;  
+}
+
